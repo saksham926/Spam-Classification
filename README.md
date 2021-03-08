@@ -9,4 +9,6 @@ The data which I have used can be found here https://archive.ics.uci.edu/ml/data
 | Decision Tree | 0.942601      | 
 | Support Vector Machine | 0.983857     | 
 
+From these results we can conclude that Support Vector Machine have got the highest accuracy on our dataset.
+
 
